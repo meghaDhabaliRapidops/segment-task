@@ -1,0 +1,53 @@
+{
+    "countries": [
+      {
+        "country": "Current Url",
+        "cities": ["equals to", "not equals to", "contains", "does not contains", "stars with", "ends with", "is empty"]
+      },
+      {
+        "country": "Total Sessions",
+        "cities": ["=", "<>", "<","<=",">",">=","is empty"]
+      },
+      {
+        "country": "Last Seen",
+        "cities": ["equals to", "not equals to", "contains", "does not contains", "stars with", "ends with", "is empty"]
+      },
+      {
+        "country": "Country",
+        "cities": ["Los Angeles", "Las Vegas", "New York"]
+      },
+      {
+        "country": "Region",
+        "cities": ["equals to", "not equals to", "contains", "does not contains", "stars with", "ends with", "is empty"]
+      },
+      {
+        "country": "City",
+        "cities": ["equals to", "not equals to", "contains", "does not contains", "stars with", "ends with", "is empty"]
+      },
+      {
+        "country": "Timezone",
+        "cities": ["equals to", "not equals to", "contains", "does not contains", "stars with", "ends with", "is empty"]
+      },
+      {
+        "country": "Continent Code",
+        "cities": ["equals to", "not equals to", "contains", "does not contains", "stars with", "ends with", "is empty"]
+      },
+      {
+        "country": "Browser Language",
+        "cities": ["equals to", "not equals to", "contains", "does not contains", "stars with", "ends with", "is empty"]
+      },
+      {
+        "country": "Browser",
+        "cities": ["Los Angeles", "Las Vegas", "New York"]
+      },
+      {
+        "country": "Browser Version",
+        "cities": ["equals to", "not equals to", "contains", "does not contains", "stars with", "ends with", "is empty"]
+      },
+      {
+        "country": "OS",
+        "cities": ["equals to", "not equals to", "contains", "does not contains", "stars with", "ends with", "is empty"]
+      }
+    ]
+  }
+  
